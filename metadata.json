@@ -1,0 +1,6 @@
+{
+  "name": "Eagle Store - Official Minecraft Server Store",
+  "description": "Official Minecraft web store for Eagle Network. Purchase ranks, crate keys, cosmetics, perks, and coins with instant server delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
